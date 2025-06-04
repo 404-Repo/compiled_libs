@@ -1,1 +1,5 @@
-# flash_attn_compiled_2.7.4
+# Custom built libraries 
+
+Currently: flash-attn; flashinfer.
+
+For more information check out the release section of this repository.
